@@ -18,3 +18,11 @@ HTML5 y CSS3 para el marcado y el estilo del sitio.
 JavaScript para añadir interactividad y mejorar la experiencia del usuario.
 WordPress como CMS de desarrollo y exportación.
 Netlify como plataforma de alojamiento para la versión estática del sitio.
+
+## Capturas de pantalla
+Vista de la página principal del sitio web, mostrando la barra de navegación y la sección de bienvenida. Ideal para dar una primera impresión del diseño y la disposición general del contenido.
+
+![Captura de pantalla (163)](https://github.com/user-attachments/assets/87a367bd-e8bf-4a5a-9ccd-edc75bae1570)
+
+
+
